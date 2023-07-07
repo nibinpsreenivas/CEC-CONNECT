@@ -29,14 +29,14 @@ Star⭐ the repo if you like what you see😉.
 
 ## Screenshots
 
-<p>
+
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/image/Screenshot%20from%202023-07-07%2020-47-18.png)
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/image/Screenshot%20from%202023-07-07%2020-47-20.png)
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/image/Screenshot%20from%202023-07-07%2020-47-22.png)
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/image/Screenshot%20from%202023-07-07%2020-47-24.png)
 
 
-</p>
+
 
 ## Installation
 
