@@ -6,7 +6,7 @@ Star⭐ the repo if you like what you see😉.
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/image/Screenshot%20from%202023-07-07%2020-47-15.png)
 
 ## ✨ Requirements
-
+ 
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 * A little knowledge of Dart and Flutter
