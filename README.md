@@ -1,7 +1,7 @@
 # CEC CONNECT APP IN FLUTTER  
  
 CEC CONNECT is a fully functional social media app with multiple features built with flutter and dart.
-
+ 
 Star⭐ the repo if you like what you see😉.
 ![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/CEC-CONNECT/main/image/Screenshot%20from%202023-07-07%2020-47-15.png)
 
