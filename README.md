@@ -13,7 +13,7 @@ Star⭐ the repo if you like what you see😉.
 * A brain to modify it 
         
 ## Features 
-             
+              
 * student and teachers can register in the app
 * Post photo posts from camera or gallery
     * View all comments on a post
