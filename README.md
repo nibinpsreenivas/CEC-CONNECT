@@ -12,7 +12,7 @@ Star⭐ the repo if you like what you see😉.
 * A little knowledge of Dart and Flutter
 * A brain to modify it 
         
-## Features
+## Features 
              
 * student and teachers can register in the app
 * Post photo posts from camera or gallery
